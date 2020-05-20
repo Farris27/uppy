@@ -76,7 +76,7 @@
     "fakefile": "0.0.8",
     "glob": "7.1.1",
     "isomorphic-fetch": "2.2.1",
-    "jest": "^22.0.0",
+    "jest": "^26.0.1",
     "lint-staged": "2.0.2",
     "minify-stream": "^1.1.0",
     "mkdirp": "0.5.1",
